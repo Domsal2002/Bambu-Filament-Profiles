@@ -1,0 +1,40 @@
+{
+    "fan_max_speed": [
+        "45"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_retract_before_wipe": [
+        "100%",
+        "nil"
+    ],
+    "filament_retraction_length": [
+        "0.5",
+        "0.5"
+    ],
+    "filament_retraction_speed": [
+        "45",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "Sunlu latest"
+    ],
+    "filament_wipe_distance": [
+        "1.5",
+        "nil"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG HF @BBL H2D",
+    "name": "Sunlu latest",
+    "nozzle_temperature": [
+        "225",
+        "nil"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "225",
+        "nil"
+    ],
+    "version": "2.5.0.7"
+}
