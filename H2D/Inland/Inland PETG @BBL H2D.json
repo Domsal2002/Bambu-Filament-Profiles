@@ -1,0 +1,43 @@
+{
+    "fan_max_speed": [
+        "45"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_retract_before_wipe": [
+        "100%",
+        "nil"
+    ],
+    "filament_retraction_length": [
+        "0.5",
+        "0.5"
+    ],
+    "filament_retraction_speed": [
+        "45",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "Inland PETG @BBL H2D"
+    ],
+    "filament_wipe_distance": [
+        "1.5",
+        "nil"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG HF @BBL H2D",
+    "name": "Inland PETG @BBL H2D",
+    "nozzle_temperature": [
+        "220",
+        "nil"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "220",
+        "nil"
+    ],
+    "nozzle_temperature_range_high": [
+        "240"
+    ],
+    "version": "2.5.0.7"
+}
