@@ -22,7 +22,7 @@ into this repo. Find them here:
 `C:\Users\<you>\AppData\Roaming\BambuStudio\user\<user_id>\filament\`
 
 **Mac:**
-`~/Library/Application Support/BambuStudio/user/<user_id>/filament/`
+`~/Library/Application\ Support/BambuStudio/user/<user_id>/filament/`
 
 Only commit the `.json` files - ignore any `.info` files Bambu Studio generates 
 alongside them, those are local cache and not needed.
