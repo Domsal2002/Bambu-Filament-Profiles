@@ -19,7 +19,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "Sunlu latest"
+        "Sunlu PETG @BBL H2D"
     ],
     "filament_wipe_distance": [
         "1.5",
@@ -27,7 +27,7 @@
     ],
     "from": "User",
     "inherits": "Generic PETG HF @BBL H2D",
-    "name": "Sunlu latest",
+    "name": "Sunlu PETG @BBL H2D",
     "nozzle_temperature": [
         "225",
         "nil"
